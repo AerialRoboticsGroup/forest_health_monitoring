@@ -44,7 +44,7 @@ RTCLE model on sample leaf or tree video.
 #### Cite the following if you use this work:
 
 ```bash
-@article{bayraktar2020low,
+@article{kocer2022vision,
   title={Vision based Crown Loss Estimation for Individual Trees With Remote Aerial Robots},
   author={Ho, Boon and Kocer, Basaran Bahadir and Kovac, Mirko},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
