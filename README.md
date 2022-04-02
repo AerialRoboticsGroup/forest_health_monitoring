@@ -29,7 +29,7 @@ DetectionModel class. Functions name are very straightforward.
 The most important function is build_vae. pass in the weights (set using weights_type) and this function returns vae, encoder, decoder.
 encoder used in TSCLR
 
-## Treee Rendering from Blender
+## Tree Rendering from Blender
 
 ### blenderTreeGen.py
 
