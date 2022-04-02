@@ -36,5 +36,3 @@ Run this in Blender. Renders tree into png format. See screen recording video in
 testOnSampleVideos.py
 #####################
 RTCLE model on sample leaf or tree video.
-
-
