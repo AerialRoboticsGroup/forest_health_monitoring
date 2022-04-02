@@ -41,10 +41,16 @@ Run this in Blender. Renders tree into png format. See screen recording video in
 
 RTCLE model on sample leaf or tree video.
 
+#### Cite the following if you use this work:
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+```bash
+@article{bayraktar2020low,
+  title={Vision based Crown Loss Estimation for Individual Trees With Remote Aerial Robots},
+  author={Ho, Boon and Kocer, Basaran Bahadir and Kovac, Mirko},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={},
+  pages={1--16},
+  year={2022},
+  publisher={Elsevier}
+}
+```
