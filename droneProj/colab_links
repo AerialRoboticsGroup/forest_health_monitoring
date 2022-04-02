@@ -1,0 +1,48 @@
+To run these notebooks:
+Mount to individualproj116@gmail.com
+password: AerialRobot116!
+
+Training of RTCLE models
+location: Colab Notebooks > crownLossBinsYolo
+https://drive.google.com/drive/folders/1wglz8sF4esAmeFkLvwqdui7ChL67N5pI?usp=sharing 
+
+Training of individual tree detector
+location: Colab Notebooks
+https://colab.research.google.com/drive/1CqWzgRgrpJItw2Byi_kPs0q1YjUlCI_U?usp=sharing
+
+VAE Training (change latent dimension to 1 or 2 depending on what you need)
+location: VAE > backgroundAgnosticVAE
+https://colab.research.google.com/drive/1oCsgBFFXmg676bxGTi-6rJcyxdtySKNI?usp=sharing
+ 
+Training of leaves detection model
+location: Colab Notebooks > leavesYolo
+https://drive.google.com/drive/folders/1fEpR-eJzikd8VvTSeTqJZ63uj-Z4XxoU?usp=sharing
+
+Loss plots(saved the log files from training and parsed them to plot the losses)
+location: Evaluation > plotLoss
+https://drive.google.com/drive/folders/1_rguXWGbqLz-gaQc2BBp9aKz1c7Dk775?usp=sharing 
+
+Leaves background subtraction:
+https://colab.research.google.com/drive/1Au603pE2JJzbprusTCRrZzL8e8pCItcD?usp=sharing
+
+WSL Trees background subtraction:
+location: WSL_Data
+https://colab.research.google.com/drive/1mSqEo1C5cGl2ut6tPPfYU7pHmS99Szw7?usp=sharing
+
+Rendered tree pasting and automatic labelling:
+location: WSL_Data > Rendered_Images
+https://colab.research.google.com/drive/1s2XmFYm92XHfAqlePoq5EGyY8Ua1uA1n?usp=sharing
+
+Kendall Tau distribution
+location: Evaluation > ImagesReport
+https://colab.research.google.com/drive/1APF7ziCq_NT6eY6xEbEhDRPQe6F2_TYV?usp=sharing
+
+Selected images for publication:
+location: tmpFrmes > tmpFrames5 > dta
+https://drive.google.com/drive/folders/1i5A9iVLXIechQ6acvgO8Lvo8-wE0t5QS
+
+WSL Data(GDrive)
+https://drive.google.com/drive/folders/1GKaM5dZ_6NOPsQnkwENucD4LQroWbfP5?usp=sharing 
+
+Original Data Source directly from WSL
+https://drive.switch.ch/index.php/s/mRk3uIeUfqJkPef
