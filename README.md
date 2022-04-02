@@ -2,9 +2,8 @@
 
 ## Crown Loss Ranking
 
-###################
-CrownLossRanking.py
-###################
+### CrownLossRanking.py
+
 Display images and boxes predicted by RTCLE and TSCLR side-by-side. Frame by frame prediction. 
 Video can be either from youtube or sample video recorded from drones.
 
@@ -19,29 +18,25 @@ labelFrameAtBottomRight: Puts a text label (eg TSCLR or RTCLE) in video frame
 
 ## Object Detection Model
 
-#######################
-objectDetectionModel.py
-#######################
+### objectDetectionModel.py
+
 DetectionModel class. Functions name are very straightforward.
 
 ## Variational Autoencoder
 
-######
-VAE.py
-######
+### VAE.py
+
 The most important function is build_vae. pass in the weights (set using weights_type) and this function returns vae, encoder, decoder.
 encoder used in TSCLR
 
 ## Treee Rendering from Blender
 
-#################
-blenderTreeGen.py
-#################
+### blenderTreeGen.py
+
 Run this in Blender. Renders tree into png format. See screen recording video in blenderModels folder.
 
 ## Test on Sample Video
 
-#####################
-testOnSampleVideos.py
-#####################
+### testOnSampleVideos.py
+
 RTCLE model on sample leaf or tree video.
