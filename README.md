@@ -1,4 +1,4 @@
-# forest_health_monitoring
+# Forest Health Monitoring
 
 ## Crown Loss Ranking
 
@@ -17,10 +17,14 @@ speedup(int): set 1 to 3 to adjust how many frames to skip to speed up for demo 
 Functions:
 labelFrameAtBottomRight: Puts a text label (eg TSCLR or RTCLE) in video frame
 
+## Object Detection Model
+
 #######################
 objectDetectionModel.py
 #######################
 DetectionModel class. Functions name are very straightforward.
+
+## Variational Autoencoder
 
 ######
 VAE.py
@@ -28,11 +32,14 @@ VAE.py
 The most important function is build_vae. pass in the weights (set using weights_type) and this function returns vae, encoder, decoder.
 encoder used in TSCLR
 
+## Treee Rendering from Blender
 
 #################
 blenderTreeGen.py
 #################
 Run this in Blender. Renders tree into png format. See screen recording video in blenderModels folder.
+
+## Test on Sample Video
 
 #####################
 testOnSampleVideos.py
