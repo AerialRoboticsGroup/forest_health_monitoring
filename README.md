@@ -48,9 +48,11 @@ RTCLE model on sample leaf or tree video.
   title={Vision based Crown Loss Estimation for Individual Trees With Remote Aerial Robots},
   author={Ho, Boon and Kocer, Basaran Bahadir and Kovac, Mirko},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  volume={},
-  pages={1--16},
-  year={2022},
+  volume = {188},
+  pages = {75-88},
+  year = {2022},
+  issn = {0924-2716},
+  doi = {https://doi.org/10.1016/j.isprsjprs.2022.04.002},
   publisher={Elsevier}
 }
 ```
