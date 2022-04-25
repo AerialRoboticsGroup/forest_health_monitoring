@@ -1,6 +1,6 @@
 To run these notebooks:
 Mount to individualproj116@gmail.com
-password: AerialRobot116!
+password: AerialRobotics117!
 
 Training of RTCLE models
 location: Colab Notebooks > crownLossBinsYolo
@@ -14,16 +14,9 @@ VAE Training (change latent dimension to 1 or 2 depending on what you need)
 location: VAE > backgroundAgnosticVAE
 https://colab.research.google.com/drive/1oCsgBFFXmg676bxGTi-6rJcyxdtySKNI?usp=sharing
  
-Training of leaves detection model
-location: Colab Notebooks > leavesYolo
-https://drive.google.com/drive/folders/1fEpR-eJzikd8VvTSeTqJZ63uj-Z4XxoU?usp=sharing
-
 Loss plots(saved the log files from training and parsed them to plot the losses)
 location: Evaluation > plotLoss
 https://drive.google.com/drive/folders/1_rguXWGbqLz-gaQc2BBp9aKz1c7Dk775?usp=sharing 
-
-Leaves background subtraction:
-https://colab.research.google.com/drive/1Au603pE2JJzbprusTCRrZzL8e8pCItcD?usp=sharing
 
 WSL Trees background subtraction:
 location: WSL_Data
